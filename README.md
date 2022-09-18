@@ -20,8 +20,8 @@ A hub-and-spoke platform for organization operations
 <b>&#x1f4c8;My GitHub Stats</b>
 
 <p align = "left">
-<a href="http://www.github.com/shubtiwari">
-<img src="https://github-readme-stats.vercel.app/api?username=shubtiwari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shubtiwari's GitHub stats" width = 400 />
+<a href="http://www.github.com/belwalshubham">
+<img src="https://github-readme-stats.vercel.app/api?username=belwalshubham&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="belwalshubham's GitHub stats" width = 400 />
 </a>
 <a href="http://www.github.com/belwalshubham">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=belwalshubham&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width = 400/>
