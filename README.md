@@ -23,6 +23,8 @@ I have been an active software programmer. worked on both open source and privat
 - Team Size: 5
 - Technologies – HTML, TAILWIND, VUE3, NUXT3, NESTJS, RestAPI, POSTGRES SQL.
 
+<h3 align="left">TOOLS - Git, VSCODE, Postman, Sentry(error monitoiring tool), K6(load testing)</h3>
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=belwalshubham&margin-w=15)](https://github.com/belwalshubham/github-profile-trophy)
