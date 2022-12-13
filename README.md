@@ -11,23 +11,18 @@
 
 ### :computer: Work
 I have been an active software programmer. worked on both open source and private projects 
-<h3 align="left">Worked on company employee portal</h3>
-(https://github.com/ColoredCow/portal)
-- A hub-and-spoke platform for organizations to effectively manage their operations and data.
--	Worked on several core functionalities and building CRUD operations end-to-end for modules like HR etc. 
-- Technologies – HTML, CSS, PHP, LARAVEL, MYSQL DATABASE.
-- 
+<h3 align="left">Worked on company employee portal </h3>
+- [Employee Portal] (https://github.com/ColoredCow/portal)
+-  A hub-and-spoke platform for organizations to effectively manage their operations and data.
+- 	Worked on several core functionalities and building CRUD operations end-to-end for modules like HR etc.
+- 	Technologies – HTML, CSS, PHP, LARAVEL, MYSQL DATABASE.
+
 <h3 align="left">Worked on real world project – WISDOM CIRCLE </h3>
- (https://wisdomcircle.com/our-team/) 
-- Wisdom Circle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have accumulated wisdom & skills over a lifetime of experience.
+ (https://wisdomcircle.com/our-team/)
+- Wisdom Circle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have     accumulated wisdom & skills over a lifetime of experience.
 - Team Size: 5
 - Technologies – HTML, TAILWIND, VUE3, NUXT3, NESTJS, RestAPI, POSTGRES SQL.
 
-
-
-### :computer: Work
-- [Employee Portal] (https://github.com/ColoredCow/portal) - 
-A hub-and-spoke platform for organization operations
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=belwalshubham&margin-w=15)](https://github.com/belwalshubham/github-profile-trophy)
