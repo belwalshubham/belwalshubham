@@ -14,15 +14,19 @@
 ### :computer: Work
 I have been an active software programmer. worked on both open source and private projects 
 <h3 align="left">Worked on company employee portal </h3>
-- [Employee Portal] (https://github.com/ColoredCow/portal)
+[Employee Portal] (https://github.com/ColoredCow/portal)
+
 -  A hub-and-spoke platform for organizations to effectively manage their operations and data.
+
 - 	Worked on several core functionalities and building CRUD operations end-to-end for modules like HR etc.
 - 	Technologies – HTML, CSS, PHP, LARAVEL, MYSQL DATABASE.
 
 <h3 align="left"> Worked on a fully mobile responsive web-app for recruiters and Wisdom generation applicants for work opportunities
 </h3>
  (https://wisdomcircle.com/our-team/)
-- Wisdom Circle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have     accumulated wisdom & skills over a lifetime of experience.
+ 
+ - Wisdom Circle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have     accumulated wisdom & skills over a lifetime of experience.
+
 - Team Size: 5
 - Technologies – HTML, TAILWIND, VUE3, NUXT3, NESTJS, RestAPI, POSTGRES SQL.
 
