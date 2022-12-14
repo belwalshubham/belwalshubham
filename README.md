@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 📫 How to reach me **belwalshubham08@gmail.com**
-- Portfolio link  **https://sunny-maamoul-380732.netlify.app/**
+- Portfolio link   **https://sunny-maamoul-380732.netlify.app/**
 <h3 align="left">Connect With Me:</h3> 
 <a href="https://www.linkedin.com/in/belu123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  <a href="https://www.twitter.com/ShubhamBelwal08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
@@ -30,7 +30,7 @@ I have been an active software programmer. worked on both open source and privat
 - Team Size: 5
 - Technologies – HTML, TAILWIND, VUE3, NUXT3, NESTJS, RestAPI, POSTGRES SQL.
 
-<h3 align="left">TOOLS - Git, VSCODE, Postman, Sentry(error monitoiring tool), K6(load testing)</h3>
+<h3 align="left">TOOLS - Git, GitHub, VSCODE, Postman, Sentry(error monitoiring tool), K6(load testing)</h3>
 
 ### 🏆 GitHub Trophies
 
