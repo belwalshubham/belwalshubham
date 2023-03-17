@@ -33,6 +33,8 @@ I have been an active software programmer. worked on both open source and privat
 
 <h3 align="left">TOOLS - Git, GitHub, VSCODE, Postman, Sentry(error monitoiring tool), K6(load testing)</h3>
 
+- In the Wisdom Circle project, Worked GCP data analytics and BigQuery to process and analyze data. This involved creating a data pipeline using Google Cloud Dataflow to extract, transform, and load data from various sources into BigQuery.
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=belwalshubham&margin-w=15)](https://github.com/belwalshubham/github-profile-trophy)
