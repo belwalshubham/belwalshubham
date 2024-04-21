@@ -14,7 +14,7 @@
 
 # Projects
 
-## Bihar Museum
+## [Bihar Museum](https://www.biharmuseum.org/)
 - **Technologies:** Gatsby, Strapi, GraphQL, PostgreSQL, EC2 (AWS)
 - **Description:**
   - Created pipelines for efficient workflow management and provided accurate estimations for project timelines.
@@ -26,7 +26,7 @@
 - **Team size:** 4
 - **Duration:** 6 months
 
-## Wisdom Circle
+## [Wisdom Circle](https://wisdomcircle.com/)
 - **Technologies:** Vue3, RestAPI, PostgreSQL, Tailwind
 - **Description:**
   - Designed a user-friendly interface (UI) for optimal user experience.
@@ -35,7 +35,7 @@
 - **Team size:** 5
 - **Duration:** 4 months
 
-## Coko
+## [Coko](https://coko.foundation)
 - **Technologies:** React.js, GraphQL, Node.js, PostgreSQL
 - **Description:**
   - Developed user-friendly interfaces for publishers and reviewers on the platform.
@@ -44,7 +44,7 @@
 - **Team size:** 4
 - **Duration:** 6-7 months
 
-## Bolbhav
+## [Bolbhav](https://play.google.com/store/apps/details?id=com.listag&hl=en_IN&gl=US&pli=1)
 - **Technologies:** React Native, Flask, PostgreSQL
 - **Description:**
   - Developed user-friendly iOS and Android applications tailored for farmers, offering valuable services and information.
@@ -53,7 +53,7 @@
 - **Team size:** 5
 - **Duration:** 2 months
 
-## ColoredCow Portal
+## [ColoredCow Portal](http://github.com/coloredcow/portal)
 - **Technologies:** HTML, CSS, PHP (Laravel, MySQL)
 - **Description:**
   - Worked on several core functionalities and built CRUD operations end-to-end for modules like HR.
