@@ -12,34 +12,53 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### :computer: Work
-I have been an active software programmer. worked on both open source and private projects 
-<h3 align="left">Worked on company employee portal </h3>
-[Employee Portal] (https://github.com/ColoredCow/portal)
+# Projects
 
--  A hub-and-spoke platform for organizations to effectively manage their operations and data.
+## Bihar Museum
+- **Technologies:** Gatsby, Strapi, GraphQL, PostgreSQL, EC2 (AWS)
+- **Description:**
+  - Created pipelines for efficient workflow management and provided accurate estimations for project timelines.
+  - Provided leadership within the team, guiding members to meet project goals effectively.
+  - Developed a user-friendly interface for the Bihar Museum website, creating new pages, and modifying existing ones.
+  - Responsible for maintaining and monitoring the deployment infrastructure.
+  - Integrated third-party apps like Mailchimp, Shopify, Google Maps, Calendar feature, etc.
+  - Launched the whole project as a critical need and high priority for the stakeholders.
+- **Team size:** 4
+- **Duration:** 6 months
 
-- 	Worked on several core functionalities and building CRUD operations end-to-end for modules like HR etc.
-- 	Technologies – HTML, CSS, PHP, LARAVEL, MYSQL DATABASE.
+## Wisdom Circle
+- **Technologies:** Vue3, RestAPI, PostgreSQL, Tailwind
+- **Description:**
+  - Designed a user-friendly interface (UI) for optimal user experience.
+  - Implemented k6 load testing and code coverage generation, enhancing performance and reliability.
+  - Executed various tasks to improve project functionality and user experience.
+- **Team size:** 5
+- **Duration:** 4 months
 
-<h3 align="left"> Worked on a fully mobile responsive web-app for recruiters and Wisdom generation applicants for work opportunities
-</h3>
- (https://wisdomcircle.com/our-team/)
- 
- - Wisdom Circle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have     accumulated wisdom & skills over a lifetime of experience.
+## Coko
+- **Technologies:** React.js, GraphQL, Node.js, PostgreSQL
+- **Description:**
+  - Developed user-friendly interfaces for publishers and reviewers on the platform.
+  - Implemented chat features including @ mention functionality, message editing, deletion, etc.
+  - Contributed to Cypress testing to ensure robustness and reliability.
+- **Team size:** 4
+- **Duration:** 6-7 months
 
-- Team Size: 5
-- Technologies – HTML, TAILWIND, VUE3, NUXT3, NESTJS, RestAPI, POSTGRES SQL.
+## Bolbhav
+- **Technologies:** React Native, Flask, PostgreSQL
+- **Description:**
+  - Developed user-friendly iOS and Android applications tailored for farmers, offering valuable services and information.
+  - Designed various user flows catering to diverse needs and plans of farmers.
+  - Collaborated effectively with a team to execute the project efficiently and achieve desired outcomes.
+- **Team size:** 5
+- **Duration:** 2 months
 
-<h3 align="left">TOOLS - Git, GitHub, VSCODE, Postman, Sentry(error monitoiring tool), K6(load testing)</h3>
-
-- In the Wisdom Circle project, Worked GCP data analytics and BigQuery to process and analyze data. This involved creating a data pipeline using Google Cloud Dataflow to extract, transform, and load data from various sources into BigQuery.
-
-<h3 align="left"> Worked on Avantifellow Project which is totally based on backend, and the database is connected to lots of services under Avantifellows. </h3>
-
-- Team Size: 2 
-- Technologies - Elixier
-
+## ColoredCow Portal
+- **Technologies:** HTML, CSS, PHP (Laravel, MySQL)
+- **Description:**
+  - Worked on several core functionalities and built CRUD operations end-to-end for modules like HR.
+- **Team size:** 10-12
+- **Duration:** 6 months
 
 
 ### 🏆 GitHub Trophies
