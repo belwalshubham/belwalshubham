@@ -80,12 +80,17 @@ Full Stack Developer & **AI Integration Engineer** with **4+ years of experience
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belwalshubham&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belwalshubham&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belwalshubham&theme=github_dark" alt="Profile Details" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=belwalshubham&theme=github-dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=belwalshubham&theme=github_dark" alt="Stats" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=belwalshubham&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belwalshubham&theme=github_dark" alt="Repos Per Language" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=belwalshubham&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
 <p align="center">
