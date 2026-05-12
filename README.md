@@ -80,8 +80,20 @@ Full Stack Developer & **AI Integration Engineer** with **4+ years of experience
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belwalshubham&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Shubham's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belwalshubham&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=belwalshubham&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Shubham's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belwalshubham&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="41%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=belwalshubham&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=belwalshubham&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belwalshubham&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
